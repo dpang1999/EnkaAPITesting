@@ -1,0 +1,15 @@
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\bin\Debug\net6.0\EnkaAPITesting.exe
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\bin\Debug\net6.0\EnkaAPITesting.deps.json
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\bin\Debug\net6.0\EnkaAPITesting.runtimeconfig.json
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\bin\Debug\net6.0\EnkaAPITesting.dll
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\bin\Debug\net6.0\EnkaAPITesting.pdb
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.csproj.AssemblyReference.cache
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.GeneratedMSBuildEditorConfig.editorconfig
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.AssemblyInfoInputs.cache
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.AssemblyInfo.cs
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.csproj.CoreCompileInputs.cache
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.dll
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\refint\EnkaAPITesting.dll
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.pdb
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\EnkaAPITesting.genruntimeconfig.cache
+A:\New folder\random coding\EnkaAPITesting\EnkaAPITesting\obj\Debug\net6.0\ref\EnkaAPITesting.dll
